@@ -4,11 +4,19 @@
 
 ### Objectives
 - Explore sales trends across different outlets and product categories.
-
 - Understand how factors like outlet size, location, and item visibility affect sales.
-
 - Identify top-performing and underperforming outlets.
-
 - Perform data cleaning and handle missing values.
-
 - Provide actionable insights for business growth.
+
+### Dataset Overview
+- Rows: 8,523
+- Columns: 12
+- Key Columns:
+
+    - Item Type – Category of product (e.g., Fruits & Vegetables, Frozen Foods).
+    - Outlet Type – Type of store (e.g., Supermarket Type1, Grocery Store).
+    - Sales – Total sales value for the item.
+    - Outlet Location Type – Tier-based city classification.
+    - Rating – Customer feedback score.
+    - Missing Values: 1,463 missing entries in Item Weight.
