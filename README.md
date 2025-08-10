@@ -36,5 +36,9 @@
 - Correlation heatmaps for numerical features.
 - Sales trend comparisons across outlets.
 
+### Tech Stack
+- Python: Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook for analysis
+- CSV dataset for sales and outlet information
 
 
