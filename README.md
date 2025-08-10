@@ -26,3 +26,7 @@
     - Sales distribution by outlet size, type, and location tier.
     - Impact of product visibility and weight on sales.
     - Year-wise outlet establishment impact.
+
+**Data Cleaning:**
+    - Handling missing Item Weight values.
+    - Standardizing categorical values like Item Fat Content.
