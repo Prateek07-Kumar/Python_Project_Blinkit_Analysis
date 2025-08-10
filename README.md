@@ -28,5 +28,5 @@
     - Year-wise outlet establishment impact.
 
 **Data Cleaning:**
-    --Handling missing Item Weight values.
-    --Standardizing categorical values like Item Fat Content.
+    -- Handling missing Item Weight values.
+    -- Standardizing categorical values like Item Fat Content.
