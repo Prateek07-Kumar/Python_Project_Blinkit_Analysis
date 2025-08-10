@@ -20,3 +20,8 @@
     - **Outlet Location Type** – Tier-based city classification.
     - **Rating** – Customer feedback score.
 - **Missing Values:** 1,463 missing entries in **Item Weight.**
+### Key Analysis Performed
+- Exploratory Data Analysis (EDA):
+    - Sales distribution by outlet size, type, and location tier.
+    - Impact of product visibility and weight on sales.
+    - Year-wise outlet establishment impact.
