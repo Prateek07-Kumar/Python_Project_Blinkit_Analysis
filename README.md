@@ -10,7 +10,7 @@
 - Provide actionable insights for business growth.
 
 ### Dataset Overview
-- Rows: 8,523
+- **Rows: 8,523**
 - Columns: 12
 - Key Columns:
 
