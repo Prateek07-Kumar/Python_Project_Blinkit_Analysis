@@ -29,7 +29,7 @@
 
 ### Data Cleaning:
 - Handling missing Item Weight values.
-- Standardizing categorical values like Item Fat Content.
+- Standardizing categorical values like **Item Fat Content.**
 
 ### Visualizations:
 - Bar charts, histograms, and pie charts for category distribution.
