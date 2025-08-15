@@ -12,7 +12,7 @@
 ### Dataset Overview
 - **Rows: 8,523**
 - **Columns: 12**
-- Key Columns:
+- **Key Columns:**
 
     - **Item Type** – Category of product (e.g., Fruits & Vegetables, Frozen Foods).
     - **Outlet Type** – Type of store (e.g., Supermarket Type1, Grocery Store).
