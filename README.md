@@ -11,7 +11,7 @@
 
 ### Dataset Overview
 - **Rows: 8,523**
-- Columns: 12
+- **Columns: 12**
 - Key Columns:
 
     - **Item Type** – Category of product (e.g., Fruits & Vegetables, Frozen Foods).
