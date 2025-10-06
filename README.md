@@ -1,6 +1,6 @@
 # Python_Project_Blinkit_Analysis
 
-**This project analyzes sales performance, outlet characteristics, and product attributes for Blinkit, utilizing Python.** The dataset contains 8,523 records and 12 columns, covering details about products, sales, outlet types, and customer ratings.**
+**This project analyzes sales performance, outlet characteristics, and product attributes for Blinkit, utilizing Python.** **The dataset contains 8,523 records and 12 columns, covering details about products, sales, outlet types, and customer ratings.**
 
 ### Objectives
 - Explore sales trends across different outlets and product categories.
