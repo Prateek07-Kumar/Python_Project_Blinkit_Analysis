@@ -40,3 +40,4 @@
 - Python: Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook for analysis
 - CSV dataset for sales and outlet information
+
